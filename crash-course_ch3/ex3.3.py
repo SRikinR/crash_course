@@ -1,0 +1,11 @@
+city = ["ahmedabad","ney york","california","washington dc","abudabi"]
+print(sorted(city))
+print(city)
+city.reverse()
+print(city)
+city.reverse()
+print(city)
+city.sort()
+print(city)
+city.sort(reverse=True)
+print(city)
